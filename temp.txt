@@ -1,2 +1,2 @@
 THIs is my git practice
-This is a Gemini Branch.
+This is a Copilot Branch.
